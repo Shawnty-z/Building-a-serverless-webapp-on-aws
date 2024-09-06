@@ -12,7 +12,7 @@ This serverless application uses the following AWS resources:
 4. **IAM Role:** Grants the Lambda function permission to write logs to Amazon CloudWatch Logs and store items in the DynamoDB table.
 5. **AWS Lambda:** A Lambda function, `RequestUnicorn`, processes API requests to dispatch a unicorn and interacts with DynamoDB.
 6. **API Gateway:** Invokes the Lambda function through a REST API and integrates with Amazon Cognito for secure access.
-![Alt text](/Building a serverless webapp on aws.png)
+![Alt text](/Building-a-serverless-webapp-on-aws.png)
 
 ## Prerequisites
 
