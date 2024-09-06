@@ -163,9 +163,3 @@ To test the Lambda function, use the following test event in the AWS Lambda Cons
 ## Conclusion
 
 This project demonstrates how to build a fully serverless web application using AWS services like Lambda, API Gateway, DynamoDB, and Cognito. By leveraging the power of serverless architecture, the application scales automatically and reduces operational overhead, allowing for high availability and seamless performance.
-
-For more details, visit the [GitHub Repository](https://github.com/Shawnty-z/Serverless-web-app-on-aws).
-
----
-
-This README should give a clear overview of the project, allowing others to follow along with your implementation and deployment process.
